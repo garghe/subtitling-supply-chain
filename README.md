@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/garghe/subtitling-supply-chain/blob/main/Gemini_Generated_Image_5b76iy5b76iy5b76.png?raw=true" alt="Alt text description" width="450"></p>
+
 # Subtitling Architecture & Supply Chain Optimisation
 
 *A Strategic Blueprint for Quality, Compatibility, and Operational Efficiency*
